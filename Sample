@@ -1,0 +1,4 @@
+let name = "jerby"
+let lastname = "peralta"
+
+console.log(name + lastname);
